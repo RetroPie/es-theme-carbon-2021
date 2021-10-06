@@ -201,111 +201,6 @@ originally based on: "simple" by nils bonenberger
 			<scrollSound>${themeScrollSound}</scrollSound>
 		</textlist>
 
-		<!-- setup metadata fields begin -->
-			<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount">
-				<fontPath>${themeFont}</fontPath>
-				<fontSize>24</fontSize>
-				<forceUppercase>false</forceUppercase>
-				<size>0 32</size>
-				<color>${themeColor}</color>
-				<visible>true</visible>
-			</text>
-
-			<text name="md_developer, md_publisher, md_genre, md_players, md_playcount, md_description">
-				<fontPath>${themeFont}</fontPath>
-				<fontSize>24</fontSize>
-				<forceUppercase>false</forceUppercase>
-				<size>0 32</size>
-				<color>969696</color>
-				<visible>true</visible>
-			</text>
-
-			<datetime name="md_releasedate, md_lastplayed">
-				<fontPath>${themeFont}</fontPath>
-				<fontSize>24</fontSize>
-				<forceUppercase>false</forceUppercase>
-				<size>0 32</size>
-				<color>969696</color>
-				<visible>true</visible>
-			</datetime>
-
-			<rating name="md_rating">
-				<size>0 24</size>
-				<visible>true</visible>
-			</rating>
-		<!-- setup metadata fields end -->
-
-		<!-- position metadata fields begin -->
-			<text name="md_lbl_releasedate">
-				<pos>980 594</pos>
-			</text>
-
-			<datetime name="md_releasedate">
-				<pos>1180 594</pos>
-			</datetime>
-
-			<text name="md_lbl_genre">
-				<pos>980 626</pos>
-			</text>
-
-			<text name="md_genre">
-				<pos>1180 626</pos>
-			</text>
-
-			<text name="md_lbl_developer">
-				<pos>980 658</pos>
-			</text>
-
-			<text name="md_developer">
-				<pos>1180 658</pos>
-			</text>
-
-			<text name="md_lbl_publisher">
-				<pos>980 690</pos>
-			</text>
-
-			<text name="md_publisher">
-				<pos>1180 690</pos>
-			</text>
-
-			<text name="md_lbl_rating">
-				<pos>1460 594</pos>
-			</text>
-
-			<rating name="md_rating">
-				<pos>1660 594</pos>
-			</rating>
-
-			<text name="md_lbl_players">
-				<pos>1460 626</pos>
-			</text>
-
-			<text name="md_players">
-				<pos>1660 626</pos>
-			</text>
-
-			<text name="md_lbl_lastplayed">
-				<pos>1460 658</pos>
-			</text>
-
-			<datetime name="md_lastplayed">
-				<pos>1660 658</pos>
-			</datetime>
-
-			<text name="md_lbl_playcount">
-				<pos>1460 690</pos>
-			</text>
-
-			<text name="md_playcount">
-				<pos>1660 690</pos>
-			</text>
-
-			<text name="md_description">
-				<size>920 268</size>
-				<pos>980 732</pos>
-			</text>
-		<!-- position metadata fields end -->
-
 		<image name="md_marquee">
 			<maxSize>576 134</maxSize>
 			<pos>1440 87</pos>
@@ -317,8 +212,8 @@ originally based on: "simple" by nils bonenberger
 	<!-- detailed -->
 	<view name="detailed">
 		<image name="md_image">
-			<maxSize>920 400</maxSize>
-			<pos>1440 384</pos>
+			<maxSize>920 776</maxSize>
+			<pos>1440 592</pos>
 			<origin>0.5 0.5</origin>
 			<visible>true</visible>
 		</image>
@@ -327,8 +222,8 @@ originally based on: "simple" by nils bonenberger
 	<!-- video -->
 	<view name="video">
 		<video name="md_video">
-			<maxSize>920 400</maxSize>
-			<pos>1440 384</pos>
+			<maxSize>920 776</maxSize>
+			<pos>1440 592</pos>
 			<origin>0.5 0.5</origin>
 			<delay>3</delay>
 			<showSnapshotNoVideo>true</showSnapshotNoVideo>

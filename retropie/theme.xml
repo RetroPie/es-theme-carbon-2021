@@ -201,27 +201,9 @@ originally based on: "simple" by nils bonenberger
 			<scrollSound>${themeScrollSound}</scrollSound>
 		</textlist>
 
-		<!-- setup metadata fields begin -->
-			<text name="md_description">
-				<fontPath>${themeFont}</fontPath>
-				<fontSize>24</fontSize>
-				<forceUppercase>false</forceUppercase>
-				<size>0 32</size>
-				<color>969696</color>
-				<visible>true</visible>
-			</text>
-		<!-- setup metadata fields end -->
-
-		<!-- position metadata fields begin -->
-			<text name="md_description">
-				<size>920 268</size>
-				<pos>980 732</pos>
-			</text>
-		<!-- position metadata fields end -->
-
 		<image name="md_image">
-			<maxSize>920 400</maxSize>
-			<pos>1440 384</pos>
+			<maxSize>920 776</maxSize>
+			<pos>1440 592</pos>
 			<origin>0.5 0.5</origin>
 			<visible>true</visible>
 		</image>
