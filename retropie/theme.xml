@@ -178,21 +178,13 @@ originally based on: "simple" by nils bonenberger
 			<color>${themeColor}</color>
 		</image>
 
-		<image name="shadow" extra="true">
-			<path>${themeArtFolder}/shadow.png</path>
-			<size>960 836</size>
-			<pos>1440 592</pos>
-			<origin>0.5 0.5</origin>
-			<color>${themeColor}</color>
-		</image>
-
 		<textlist name="gamelist">
 			<fontPath>${themeFont}</fontPath>
 			<fontSize>${themeGamelistFontSize}</fontSize>
 			<forceUppercase>true</forceUppercase>
-			<size>920 816</size>
-			<pos>20 184</pos>
-			<alignment>left</alignment>
+			<size>1880 288</size>
+			<pos>20 712</pos>
+			<alignment>center</alignment>
 			<horizontalMargin>0</horizontalMargin>
 			<selectorColor>1c1c1c</selectorColor>
 			<selectedColor>${themeColor}</selectedColor>
@@ -201,27 +193,9 @@ originally based on: "simple" by nils bonenberger
 			<scrollSound>${themeScrollSound}</scrollSound>
 		</textlist>
 
-		<!-- setup metadata fields begin -->
-			<text name="md_description">
-				<fontPath>${themeFont}</fontPath>
-				<fontSize>24</fontSize>
-				<forceUppercase>false</forceUppercase>
-				<size>0 32</size>
-				<color>969696</color>
-				<visible>true</visible>
-			</text>
-		<!-- setup metadata fields end -->
-
-		<!-- position metadata fields begin -->
-			<text name="md_description">
-				<size>920 268</size>
-				<pos>980 732</pos>
-			</text>
-		<!-- position metadata fields end -->
-
 		<image name="md_image">
-			<maxSize>920 400</maxSize>
-			<pos>1440 384</pos>
+			<maxSize>1880 498</maxSize>
+			<pos>960 443</pos>
 			<origin>0.5 0.5</origin>
 			<visible>true</visible>
 		</image>
