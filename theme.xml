@@ -215,7 +215,7 @@ originally based on: "simple" by nils bonenberger
 				<fontPath>${themeFont}</fontPath>
 				<fontSize>24</fontSize>
 				<forceUppercase>false</forceUppercase>
-				<size>0 32</size>
+				<size>280 32</size>
 				<color>969696</color>
 				<visible>true</visible>
 			</text>
@@ -241,7 +241,7 @@ originally based on: "simple" by nils bonenberger
 			</text>
 
 			<datetime name="md_releasedate">
-				<pos>1180 594</pos>
+				<pos>1150 594</pos>
 			</datetime>
 
 			<text name="md_lbl_genre">
@@ -249,7 +249,7 @@ originally based on: "simple" by nils bonenberger
 			</text>
 
 			<text name="md_genre">
-				<pos>1180 626</pos>
+				<pos>1150 626</pos>
 			</text>
 
 			<text name="md_lbl_developer">
@@ -257,7 +257,7 @@ originally based on: "simple" by nils bonenberger
 			</text>
 
 			<text name="md_developer">
-				<pos>1180 658</pos>
+				<pos>1150 658</pos>
 			</text>
 
 			<text name="md_lbl_publisher">
@@ -265,7 +265,7 @@ originally based on: "simple" by nils bonenberger
 			</text>
 
 			<text name="md_publisher">
-				<pos>1180 690</pos>
+				<pos>1150 690</pos>
 			</text>
 
 			<text name="md_lbl_rating">
@@ -273,7 +273,7 @@ originally based on: "simple" by nils bonenberger
 			</text>
 
 			<rating name="md_rating">
-				<pos>1660 594</pos>
+				<pos>1630 594</pos>
 			</rating>
 
 			<text name="md_lbl_players">
@@ -281,7 +281,7 @@ originally based on: "simple" by nils bonenberger
 			</text>
 
 			<text name="md_players">
-				<pos>1660 626</pos>
+				<pos>1630 626</pos>
 			</text>
 
 			<text name="md_lbl_lastplayed">
@@ -289,7 +289,7 @@ originally based on: "simple" by nils bonenberger
 			</text>
 
 			<datetime name="md_lastplayed">
-				<pos>1660 658</pos>
+				<pos>1630 658</pos>
 			</datetime>
 
 			<text name="md_lbl_playcount">
@@ -297,7 +297,7 @@ originally based on: "simple" by nils bonenberger
 			</text>
 
 			<text name="md_playcount">
-				<pos>1660 690</pos>
+				<pos>1630 690</pos>
 			</text>
 
 			<text name="md_description">
