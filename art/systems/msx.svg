@@ -1,31 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
-<!DOCTYPE svg [
-	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
-	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
-	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
-	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
-	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
-	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
-	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
-	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
-	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
-]>
-<svg version="1.2" baseProfile="tiny" id="Ebene_2" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
-	 x="0px" y="0px" width="566.928px" height="234.744px" viewBox="-0.463 -70.905 566.928 234.744" xml:space="preserve">
-<metadata>
-	<sfw  xmlns="&ns_sfw;">
-		<slices></slices>
-		<sliceSourceBounds  x="676.572" y="422.128" width="566.928" height="234.744" bottomLeftOrigin="true"></sliceSourceBounds>
-	</sfw>
-</metadata>
-<rect id="rect3604" x="-0.463" y="-70.905" fill="#003E99" width="566.928" height="234.744"/>
-<path id="path2830" sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccc" fill="#FFFFFF" d="M36.727,130.562L79.791-38.949
-	h39.932l20.749,73.991l21.531-73.991h37.583l35.233,124.883l85.965-0.162c9.022-0.088,9.577-18.748-0.669-18.744l-50.063-0.668
-	c-21.497,0.207-44.167-23.05-43.063-54.023c0.229-28.412,25.004-50.786,56.698-50.778l127.689-0.114l32.494,44.238l31.709-44.629
-	l52.85,0.392l-57.938,81.428l62.637,88.292l-52.572-0.16L444.1,80.342l-34.681,50.662l-53.633-0.049l61.072-87.299L390.236,4.899
-	L279.237,5.061c-12.114,0.111-11.669,19.169,0.095,18.812l46.769,0.716c19.767,0.127,47.604,20.668,46.91,52.735
-	c0.301,37.279-33.274,54.313-49.44,53.401l-122.419,0.163l-20.357-76.271l-20.357,76.108h-38.644l-21.255-75.718l-18.677,75.833
-	L36.727,130.562z"/>
+<?xml version="1.0"?>
+<svg width="566.928" height="234.744" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" version="1.2" xml:space="preserve">
+
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect fill="#003E99" height="234.74" id="rect3604" width="566.93" x="0.54" y="0"/>
+  <path d="m37.73,201.47l43.06,-169.51l39.93,0l20.75,73.99l21.53,-73.99l37.59,0l35.23,124.88l85.96,-0.16c9.03,-0.09 9.58,-18.75 -0.67,-18.75l-50.06,-0.67c-21.5,0.21 -44.17,-23.05 -43.06,-54.02c0.23,-28.41 25,-50.79 56.7,-50.78l127.69,-0.11l32.49,44.24l31.71,-44.63l52.85,0.39l-57.94,81.43l62.64,88.29l-52.57,-0.16l-36.46,-50.66l-34.68,50.66l-53.63,-0.05l61.07,-87.3l-26.63,-38.76l-110.99,0.17c-12.12,0.11 -11.67,19.17 0.09,18.81l46.77,0.71c19.77,0.13 47.6,20.67 46.91,52.74c0.3,37.28 -33.27,54.31 -49.44,53.4l-122.42,0.16l-20.36,-76.27l-20.35,76.11l-38.65,0l-21.25,-75.72l-18.68,75.84l-45.13,-0.28z" fill="#FFFFFF" id="path2830"/>
+ </g>
 </svg>
