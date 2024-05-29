@@ -5,7 +5,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
 	<defs>
-		<linearGradient id="A" x1="50%" x2="50%" y1="0%" y2="100%">
+		<linearGradient id="A" x1="25%" x2="75%" y1="0%" y2="75%">
 			<stop offset="0%" stop-color="#111d2e"/>
 			<stop offset="1.2%" stop-color="#051839"/>
 			<stop offset="20.7%" stop-color="#0a1b48"/>
