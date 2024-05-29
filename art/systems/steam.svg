@@ -50,7 +50,7 @@
 		</rdf:RDF>
 	</metadata>
 	<defs>
-		<linearGradient id="A" x1="50%" x2="50%" y1="0%" y2="100%" gradientUnits="userSpaceOnUse">
+		<linearGradient id="A" x1="50%" x2="50%" y1="0%" y2="100%">
 			<stop offset="0%" stop-color="#111d2e"/>
 			<stop offset="1.2%" stop-color="#051839"/>
 			<stop offset="20.7%" stop-color="#0a1b48"/>
