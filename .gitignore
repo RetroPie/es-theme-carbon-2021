@@ -73,6 +73,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+<<<<<<< HEAD
 
 # Visual Studio
 .vs
